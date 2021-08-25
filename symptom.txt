@@ -1,0 +1,187 @@
+
+Stopped Growth :-->  
+pred_diseases:'Growth Disorder, Turner Syndrome',
+analgesics: 'Thyroid hormone pills, growth hormone injections', 
+treatment scans:'Bone Age Xray, MRI scan', 
+'Meat, Seafood,Leafygreens,Diary,Spinach, Beef'
+ -------> Enter your pincode to see available doctors near by you .
+
+Wheezing, Coughing and troubled breathing,chest pain -->pred_diseases: Asthma;
+analgesics: Metered dose inhalers, nebulizers;
+treatment scans:Asthma therapy; 
+diet:Fruits and vegetables
+  -------> Enter your pincode to see available doctors near by you .
+
+baby too small, weight<5.5 pounds-->pred_diseases:  'Learning disabilities', 
+analgesics: 'iron supplements', 
+treatment scans:'Temperature Control Incubator', 
+diet:'iron supplements'
+ -------> Enter your pincode to see available doctors near by you.
+
+Repetetive behaviour,prefers to be alone-->pred_diseases: 'Autism\r\n',
+analgesics: 'Ketamine, Midazolem', 
+treatment scans:'Teach social skills and cognitive behaviour',
+ diet: 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'
+  -------> Enter your pincode to see available doctors near by you.
+
+Self-destructiveness,sadness and being upset-->
+pred_diseases: 'Depression', 
+analgesics: 'Prozac, Zoloft or Celexa',
+treatment scans:'Constantly praise him, teach skills, and give self-development talks',
+ diet: 'Fish and whole grains'.
+
+Paleness, loss of energy, weightloss and easy bruising--pred_diseases: 'Cancer or Brain Tumor',
+analgesics: 'Morphine or Ibuprofen', 
+treatment scans:'Chemotherapy or Stem cell transplant',
+ diet: 'Cheese, Meat, Seafood, Diary and Eggs'.
+
+Fever,fever up to 102f, Tiredness or Loss of Appetitse-->
+pred_diseases:'Chickenpox', 
+analgesics: 'Acetaminophen', 
+treatment scans:'lukewarm bath and apply calamine lotion to itchy areas', 
+diet: 'Raw fruits, Vegetables, Meat, Pastured eggs and avoid salty foods'.
+
+easy tiredness and overweight-->
+pred_diseases:'Obesity', 
+analgesics: 'Not suggested to take analgesics for obesity', 
+treatment scans:'building heathy eating ang drinking habits and physical activities like exercise', 
+diet: 'Fruits and vegetables, and avoid skipping breakfast'
+ -------> Enter your pincode to see available doctors near by you.
+
+Severe tooth ache-->
+pred_diseases:'Cavities\r\n',
+analgesics:  'Ibuprofen or Aspirin',
+treatment scans: 'Fluoride toothpaste', 
+diet: 'juices and avoid sweets, chocolates and unhealthy snacks'.
+
+Often urinating, slow healing of bruises, weightloss-->
+pred_diseases:  'Diabetes', 
+analgesics: 'Tylenol or Aspirin', 
+treatment scans:'Insulin Treatment', 
+diet: 'brown rice or cereals with two eggs daily'
+-------> Enter your pincode to see available doctors near by you.
+
+High body temperature, severe headache and tiredness-->
+pred_diseases: 'Fever', 
+analgesics: 'Paracetemol or Aspirin', 
+treatment scans:'Tylenol, Ibuprofen to treat stomach irritation',
+diet:  'fluid intake like gatorage, fruitjuices or milk'
+-------> Enter your pincode to see available doctors near by you.
+
+Depression, Eating Disorders-->
+pred_diseases:  'Drug or Smoke or Alcohol Addiction',
+analgesics:  'Baclofen, Gebapentin', 
+treatment scans:'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO', 
+diet: 'Green leafy vegetables'.
+
+Swelling, irritation, breast or nipple pain-->
+pred_diseases: 'Breast Cancer', 
+analgesics: 'Tamoxifen',
+treatment scans: 'heart-smart diet and indulge in physical activity and avoid smoking', 
+diet: 'whole grains, beans, legumes'.
+
+Sudden Confusion, Dizziness, Loss of Banlance-->
+pred_diseases:  'Stroke',
+analgesics:  'Anti-platelet drugs like Plavix', 
+treatment scans:'Clot-bursting therapy', 
+diet: 'Fruits and Vegetables, and avoid salt'.
+
+Shortness of breath, or being inactive--> 
+pred_diseases: 'COPD', 
+analgesics: 'Tudorza or Brovana', 
+treatment scans:'Inhalers and oral steroids',
+diet:  'Eggs, Cheese, Meat, fish, and Poultry'
+-------> Enter your pincode to see available doctors near by you.
+
+Forgetfulness or Confusion-->
+pred_diseases: 'Alzheimer\'s disease', 
+analgesics: 'Aricept or Exelon', 
+treatment scans:'MRI and CT scans',
+diet: 'berries, beans and whole grains'.
+
+Chest pain, confusion, cough or fatigue-->
+pred_diseases: 'Pneumonia or Influenza', 
+analgesics: 'Levofloxacin', 
+treatment scans:'Plenty of fluids and get lot of rest', 
+diet:'Citrus fruits, Oily fish and Leafy greens'
+-------> Enter your pincode to see available doctors near by you.
+
+Often urinating, slow healing of bruises, weightloss-->
+pred_diseases:  'Diabetes', 
+analgesics: 'Tylenol or Aspirin', 
+treatment scans:'Insulin Treatment', 
+diet:'Brown rice or cereals with two eggs daily'.
+
+reduced urine, swelling of legs or fatigue-->
+pred_diseases: 'Kidney Disease', 
+analgesics: 'Naproxen or Ibuprofen', 
+treatment scans:'Dialysis', 
+diet:'Berries, bell peppers, onions and apples'.
+
+Fever, chills, rapid breathing and heart rate-->
+pred_diseases:  'Blood poisoning', 
+analgesics: 'Ceftriaxone or Azithromycin', 
+treatment scans:'Vasoconstriction to narrow blood vessels',
+ diet:'Leafy greens like spinach'.
+
+Fragile bones--> 
+pred_diseases: 'Brittle bone disease', 
+analgesics: 'Biphosphonates, calcium and vitamin D supplements',
+treatment scans: 'VitaminD supplements and avoid smoking and alcohol',
+diet:'fruits and foods high on calcium'.
+
+Skin wrinkles and aging-->
+pred_diseases: 'No disease', 
+analgesics: 'Anti-aging creams',
+treatment scans: 'Blepharoplasty surgery to get rid of aging',
+diet: 'Berries, Broccoli, Papaya, Spinach, Nuts and Avocado'.
+
+Blurry and loss of vision-->
+pred_diseases:  'Mascular Degeneration',
+analgesics:  'Lucentis or Macugen',
+treatment scans: 'Regular exercise and avoid smoking', 
+diet:'Fish and vegetables'.
+
+Blood pressure reading 140 or higher-->
+pred_diseases: 'High blood pressure', 
+analgesics: 'Thiazide diuretics', 
+treatment scans:'Physical activity like exercise and avoid smoking and srinking', 
+diet:'low-fat diary, whole grains and Fruits'.
+
+Trouble sleeping or sleep, mood swings, vaginal dryness-->
+pred_diseases: 'Menopause',
+analgesics: 'Isoflav capsules',
+treatment scans: 'Estrogen levels test', 
+diet:'Fish, Fruits, Vegetables and Diary'.
+
+Cold, Allergies, Nasal problems-->
+pred_diseases:  'Sinusitis', 
+analgesics: 'Acetaminophen or Nasal spray',
+treatment scans: 'Antibiotics like Aspirin and Nasal sprays', 
+diet:'Salmon, Avocados, Cherries and Beans'
+-------> Enter your pincode to see available doctors near by you.
+
+Pain while urine and ejaculation-->
+pred_diseases: 'Prostate Cancer',
+analgesics:  'Bicalutamide or Casodex', 
+treatment scans:'Radiation therapy or prostatectomy',
+diet: 'Veggies and fruits and low in meat'.
+
+Trembling body parts and loss of balance-->
+pred_diseases: 'Parkinson\'s disease',
+analgesics:  'Vesoret capsules',
+treatment scans: 'Cardibopa-levodopa', 
+diet:'Fruits and vegetables'.
+
+Buildup of fluids in legs, ankles and legs, tiredness-->
+pred_diseases: 'Heart failure',
+analgesics: 'Carvedilol or Metoprolol',
+treatment scans: 'ACE inhibitors',
+diet: 'Plain rice, fish, egg, milk and yoghurt'.
+
+530011-->
+Name:DR. M.Satyarao,
+contactnumber:0891-2709239,
+location:"malkapuram,beside postoffice",
+timings: 6:30pm-9:30pm,
+Specialist:ENT.

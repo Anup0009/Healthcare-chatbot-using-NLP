@@ -1,0 +1,9 @@
+
+530011-->
+Name:DR. M.Satyarao,
+contactnumber:0891-2709239,
+location:"malkapuram,beside postoffice",
+timings: 6:30pm-9:30pm,
+Specialist : ENT.
+
+
